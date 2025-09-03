@@ -29,3 +29,8 @@ Ejemplo: Si una clase requiere obtener algún dato como el nombre o edad de una 
 •	Polimorfismo: Este principio habla del comportamiento de los métodos y como pueden ejecutarse de manera diferente según el objeto que los llame o como la aplicación los ejecuta según la instancia que llama al método.
 Ejemplo: Un ejemplo de esto puede explicarse con la “Sobrecarga de métodos” que es cuando se definen dos o más métodos con el mismo nombre pero con diferentes parámetros dentro de una clase y que cuando se llame al método el programa determina cuál de los métodos ejecutar basándose en los parámetros que se le proporcionen.
 
+
+
+Principio KISS: En ingles es "Keep it simple, stupid" que significa "Mantenlo simple, estupido". Este principio consiste en mantener el sistema y su codigo de una manera simplificada evitando complejidades como datos o informacion que sean irrelevantes y que no aporten algo al sistema o programa. Este principio ayuda a que se mantenga un codigo simple que lo hace facil de entender y mantener.
+
+Principio DRY: En ingles es "Don't repeat yourself" que significa "No te repitas a ti mismo". Consiste en evitar la repeticion en un codigo que no necesita repetirse de manera redundante. Por ejemplo: en vez de copiar y pegar un mismo código en diferentes partes de un programa se puede analizar como funciona la lógica del codigo y crear una abstracción que puede ser una clase padre, función o método que pueda ser reutilizado.
