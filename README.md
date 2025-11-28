@@ -1,2 +1,2 @@
-Teoria y practicas realizadas (En proceso)
+Teoria y practicas realizadas.
 Revisar Wiki para ver la teoria.
